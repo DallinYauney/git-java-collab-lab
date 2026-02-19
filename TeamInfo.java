@@ -16,7 +16,7 @@ public class TeamInfo {
     }
 
     public static void printMembers() {
-        // to be implemented
+        System.out.println("Dallin Yauney, Chase Wood, Agnes Franco, Jimmy Dinegro");
     }
 
     public static void printProjectDescription() {
