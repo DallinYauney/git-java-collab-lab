@@ -12,7 +12,7 @@ public class TeamInfo {
     }
 
     public static void printCourse() {
-        // to be implemented
+        System.out.println("CS2450");
     }
 
     public static void printMembers() {
