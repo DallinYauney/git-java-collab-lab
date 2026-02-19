@@ -20,6 +20,6 @@ public class TeamInfo {
     }
 
     public static void printProjectDescription() {
-        // to be implemented
+        System.out.println("We're testing Git! It's very instructional");
     }
 }
